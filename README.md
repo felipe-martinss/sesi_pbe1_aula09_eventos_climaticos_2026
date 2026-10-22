@@ -4,4 +4,4 @@ Conexão de banco de dados com o back end, projeto onde registra eventos climát
 ## MER e DER
 <div align="left">
   <br><br/>
-  <img src="mer der conceitual.png" alt="image" width="1200" </a>
+<p align="left"><a href="">equipamento.csv</a></p>
