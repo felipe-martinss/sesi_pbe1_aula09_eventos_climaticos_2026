@@ -1,7 +1,7 @@
 {
   "name": "eventos_climaticos_pbe",
   "version": "1.0.0",
-  "description": "",
+  "description": "Conexão de banco de dados com o back end, projeto onde registra eventos climáticos e registra o usuarios",
   "main": "server.js",
   "scripts": {
     "dev": "node --watch server.js",
@@ -12,8 +12,20 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "con": "^0.1.3",
     "cors": "^2.8.6",
-    "express": "^5.2.1",
+    "express": "^5.3.0",
     "mysql": "^2.18.1"
-  }
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipe-martinss/sesi_pbe1_aula09_eventos_climaticos_2026.git"
+  },
+  "bugs": {
+    "url": "https://github.com/felipe-martinss/sesi_pbe1_aula09_eventos_climaticos_2026/issues"
+  },
+  "homepage": "https://github.com/felipe-martinss/sesi_pbe1_aula09_eventos_climaticos_2026#readme"
 }
