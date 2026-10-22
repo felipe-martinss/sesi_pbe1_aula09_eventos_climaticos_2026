@@ -72,6 +72,7 @@ const excluir = (req, res) => {
        } catch (error) {
         console.error(error)
         res.status(400).json({ error: 'Erro ao excluir usuário'})
+        
     }
 }
 
