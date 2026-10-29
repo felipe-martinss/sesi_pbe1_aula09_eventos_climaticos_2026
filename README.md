@@ -49,9 +49,24 @@ Copie e cole o conteúdo do arquivo `db/script.sql` no shell do MariaDB para cri
 </p>
 </details>
 
+   <details>
+    <summary>Cadastrar Evento</summary>
+<p align="left">
+  <img src="./docs/cadastrar_evento.png" alt="Cadastrar usuário">
+</p>
+  </details>
+
   <details>
     <summary>Listar Usuários</summary>
 <p align="left">
   <img src="./docs/listar_usuarios.png" alt="Listar usuários">
 </p>
   </details>
+    <details>
+    <summary>Cadastrar Usuário</summary>
+<p align="left">
+  <img src="./docs/cadastrar_usuario.png" alt="Cadastrar usuário">
+</p>
+  </details>
+
+  
